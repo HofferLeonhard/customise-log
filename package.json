@@ -1,0 +1,31 @@
+{
+  "name": "customise-log",
+  "version": "1.0.0",
+  "description": "Set custom logs with colors and styles in your nodejs applications",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HofferLeonhard/customise-log.git"
+  },
+  "keywords": [
+    "color",
+    "style",
+    "log",
+    "customise",
+    "custom",
+    "logger"
+  ],
+  "author": "Ouandi Mbiandja Hoffer Fleury",
+  "license": "MIT-Clause",
+  "bugs": {
+    "url": "https://github.com/HofferLeonhard/customise-log/issues"
+  },
+  "homepage": "https://github.com/HofferLeonhard/customise-log#readme"
+}
