@@ -1,7 +1,5 @@
 # customise-log
 Set custom logs with colors and styles in your nodejs applications
-<<<<<<< HEAD
-=======
 
 [![NPM version](https://img.shields.io/npm/v/customise-log.svg)](https://www.npmjs.com/package/customise-log)
 
@@ -96,4 +94,3 @@ For example :
 
 
 Enjoy it !
->>>>>>> Initial commit
