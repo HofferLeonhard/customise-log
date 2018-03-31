@@ -16,7 +16,7 @@ To log something into a console, you just have to instanciate customise-log obje
 For example :
 
 	var logger = require("customise-log");            			
-		logger.log("Bienvenue à tous");
+	    logger.log("Bienvenue à tous");
 
 #### Logger levels
 They are 7 possible logger levels : 
