@@ -74,7 +74,7 @@ module.exports = {
   info : function(message){
   	var $this = this;
 	$this.init();
-  	message = $this.colors.fatal(message);
+  	message = $this.colors.info(message);
   	message = " "+message+" ";
   	console.log(message);
   	
